@@ -1,0 +1,90 @@
+[
+    {
+        "note": "kapacitast noveljuk fix targy szam mellett, suly ertek random", 
+        "testNumber": 1,
+        "capacity": 50,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    }, 
+    {
+        "note": "capacity: 100 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 2,
+        "capacity": 100,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    },
+    {
+        "note": "capacity: 200 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 3,
+        "capacity": 200,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    }, 
+    {
+        "note": "capacity: 300 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 4,
+        "capacity": 300,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    },
+    {
+        "note": "capacity: 400 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 5,
+        "capacity": 400,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    },
+    {
+        "note": "capacity: 500 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 6,
+        "capacity": 500,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    },
+    {
+        "note": "capacity: 600 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 7,
+        "capacity": 600,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    }, 
+    {
+        "note": "capacity: 700 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 8,
+        "capacity": 700,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    },
+    {
+        "note": "capacity: 800 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 9,
+        "capacity": 800,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    },
+    {
+        "note": "capacity: 900 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 10,
+        "capacity": 900,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    },
+    {
+        "note": "capacity: 1000 | numberOfItems: 20 | weights: 1-100 | values: 1-100", 
+        "testNumber": 11,
+        "capacity": 1000,
+        "numberOfItems": 20,
+        "weights": [47, 60, 24, 80, 95, 92, 6, 49, 83, 56, 73, 9, 71, 44, 26, 61, 54, 77, 36, 22],
+        "values":  [97, 50, 16, 82, 72, 37, 14, 66, 58, 29, 26, 8, 89, 46, 21, 90, 64, 84, 96, 69]
+    }      
+]

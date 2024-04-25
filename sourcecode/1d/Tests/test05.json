@@ -1,0 +1,74 @@
+[
+    {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 1,
+        "capacity": 100,
+        "numberOfItems": 5,
+        "values": [10, 10, 10, 10, 10],
+        "weights": [70, 60, 50, 40, 30]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 2,
+        "capacity": 200,
+        "numberOfItems": 7,
+        "values": [10, 10, 10, 10, 10, 10, 10],
+        "weights": [120, 110, 100, 90, 80, 70, 60]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 3,
+        "capacity": 150,
+        "numberOfItems": 10,
+        "values": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+        "weights": [120, 110, 100, 90, 85, 80, 75, 70, 65, 60]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 4,
+        "capacity": 300,
+        "numberOfItems": 15,
+        "values": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+        "weights": [200, 190, 180, 170, 160, 150, 140, 130, 120, 110, 100, 90, 80, 70, 60]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 5,
+        "capacity": 350,
+        "numberOfItems": 20,
+        "values": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+        "weights": [250, 240, 230, 220, 210, 200, 190, 180, 170, 160, 150, 140, 130, 120, 110, 100, 90, 80, 70, 60]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 7,
+        "capacity": 250,
+        "numberOfItems": 6,
+        "values": [10, 10, 10, 10, 10, 10],
+        "weights": [95, 88, 76, 69, 57, 46]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 8,
+        "capacity": 300,
+        "numberOfItems": 8,
+        "values": [10, 10, 10, 10, 10, 10, 10, 10],
+        "weights": [105, 93, 86, 75, 68, 55, 48, 39]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 9,
+        "capacity": 350,
+        "numberOfItems": 12,
+        "values": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+        "weights": [140, 130, 118, 107, 96, 85, 74, 63, 52, 41, 30, 20]
+      },
+      {
+        "note": "ertek ugyan az mindegyiknel",
+        "testNumber": 10,
+        "capacity": 400,
+        "numberOfItems": 15,
+        "values": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+        "weights": [210, 198, 186, 174, 162, 150, 138, 126, 114, 102, 90, 78, 66, 54, 42]
+      }      
+]

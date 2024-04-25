@@ -1,0 +1,19 @@
+[
+    {
+        "note": "capacity: 50 | numberOfItems: 10 | weights: 1-75 | values: 1-75", 
+        "testNumber": 1,
+        "capacity": 50,
+        "numberOfItems": 10,
+        "weights": [18, 2, 7, 22, 45, 26, 57, 10, 32, 72],
+        "values": [61, 41, 22, 38, 25, 11, 12, 46, 45, 53]
+    },
+    {
+        "note": "capacity: 50 | numberOfItems: 10 | weights: 1-100 | values: 1-100",
+        "testNumber": 1,
+        "capacity": 50,
+        "numberOfItems": 10,
+        "weights": [55, 12, 88, 43, 22, 1, 77, 45, 10, 90],
+        "values": [5, 87, 14, 99, 67, 51, 23, 78, 46, 29]
+        }
+       
+]

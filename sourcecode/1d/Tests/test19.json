@@ -1,0 +1,34 @@
+[
+    {
+        "note": "kapacitas fix, a targyak sulyai es ertekei alapjan probaljuk meghatarozni", 
+        "testNumber": 1,
+        "capacity": 500,
+        "numberOfItems": 18,
+        "weights": [68, 38, 10, 18, 61, 36, 14, 26, 45, 5, 50, 72, 32, 57, 51, 22, 44, 37],
+        "values": [2, 13, 5, 9, 7, 8, 18, 15, 2, 7, 10, 14, 12, 11, 3, 9, 8, 19]
+    },
+    {
+        "note": "capacity: 500 | numberOfItems: 10-20 | weights: 1-75 (sum weights: 507)| values: 1-20 (sum values: 144)", 
+        "testNumber": 2,
+        "capacity": 500,
+        "numberOfItems": 15,
+        "weights": [19, 60, 69, 61, 35, 15, 21, 41, 27, 73, 41, 47, 25, 8, 63],
+        "values": [10, 5, 15, 18, 9, 13, 4, 3, 1, 20, 17, 1, 7, 2, 12]
+    },
+    {
+        "note": "capacity: 500 | numberOfItems: 10-20 | weights: 1-75 (sum weights: 608)| values: 1-20 (sum values: 157)", 
+        "testNumber": 3,
+        "capacity": 500,
+        "numberOfItems": 20,
+        "weights": [64, 18, 71, 61, 5, 20, 47, 33, 15, 63, 30, 25, 29, 17, 16, 43, 20, 12, 10, 54],
+        "values": [4, 12, 14, 1, 8, 2, 15, 11, 12, 7, 1, 16, 19, 10, 19, 1, 18, 7, 6, 13]
+    },
+    {
+        "note": "capacity: 500 | numberOfItems: 10-20 | weights: 1-75 (sum weights: 687)| values: 1-20 (sum values: 154)", 
+        "testNumber": 4,
+        "capacity": 500,
+        "numberOfItems": 17,
+        "weights": [29, 49, 70, 22, 55, 17, 63, 27, 37, 45, 28, 71, 29, 49, 59, 45, 28],
+        "values": [1, 20, 18, 6, 5, 14, 5, 20, 19, 3, 4, 4, 2, 4, 5, 12, 18]
+    }
+]

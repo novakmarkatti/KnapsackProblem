@@ -1,0 +1,44 @@
+[
+    {
+        "testNumber"   : 1,
+        "note"         : "kis kontener kis targyak", 
+        "capacity"     : [10, 10],
+        "rectangles"   : [[2,3,8], [3,2,7], [5,5,5], [2,2,1], [1,1,1]]
+    },
+    {
+        "testNumber"   : 2,
+        "note"         : "kis kontener nagy targyak", 
+        "capacity"     : [10, 10],
+        "rectangles"   : [[12, 10, 5], [10, 12, 6], [15, 15, 10]]
+    },
+    {
+        "testNumber"   : 3,
+        "note"         : "nagy kontener kis targyak", 
+        "capacity"     : [100, 100],
+        "rectangles"   : [[2,3,8], [3,2,7], [5,5,5], [2,2,1], [1,1,1]]
+    },
+    {
+        "testNumber"   : 4,
+        "note"         : "nagy kontener nagy targyak", 
+        "capacity"     : [100, 100],
+        "rectangles"   : [[30, 40, 25], [50, 50, 50], [40, 60, 45], [35, 35, 40], [20, 20, 10]]
+    },
+    {
+        "testNumber"   : 5,
+        "note"         : "kis es nagy targyak", 
+        "capacity"     : [50, 50],
+        "rectangles"   : [[10, 20, 15], [30, 40, 30], [20, 10, 15], [5, 5, 5], [1, 1, 1]]
+    },
+    {
+        "testNumber"   : 6,
+        "note"         : "egy nagy erteku targy", 
+        "capacity"     : [50, 50],
+        "rectangles"   : [[10, 10, 500], [40, 40, 50], [45, 45, 60]]
+    },
+    {
+        "testNumber"   : 7,
+        "note"         : "tobb nagy erteku targy", 
+        "capacity"     : [50, 50],
+        "rectangles"   : [[10, 10, 500], [10, 10, 450], [10, 10, 400], [40, 40, 50], [45, 45, 60]]
+    }
+]

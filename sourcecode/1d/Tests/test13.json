@@ -1,0 +1,74 @@
+[
+    {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 1,
+        "capacity": 100,
+        "numberOfItems": 5,
+        "weights": [14, 23, 33, 46, 57],
+        "values": [70, 60, 50, 40, 30]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 2,
+        "capacity": 200,
+        "numberOfItems": 7,
+        "weights": [30, 45, 60, 75, 90, 105, 120],
+        "values": [120, 110, 100, 90, 80, 70, 60]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 3,
+        "capacity": 150,
+        "numberOfItems": 10,
+        "weights": [12, 28, 33, 47, 58, 72, 85, 93, 102, 115],
+        "values": [120, 110, 100, 90, 85, 80, 75, 70, 65, 60]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 4,
+        "capacity": 300,
+        "numberOfItems": 15,
+        "weights": [15, 28, 41, 54, 67, 80, 93, 106, 119, 132, 145, 158, 171, 184, 197],
+        "values": [200, 190, 180, 170, 160, 150, 140, 130, 120, 110, 100, 90, 80, 70, 60]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 5,
+        "capacity": 350,
+        "numberOfItems": 20,
+        "weights": [17, 33, 46, 52, 69, 78, 85, 97, 106, 119, 132, 145, 158, 171, 184, 197, 210, 223, 236, 249],
+        "values": [250, 240, 230, 220, 210, 200, 190, 180, 170, 160, 150, 140, 130, 120, 110, 100, 90, 80, 70, 60]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 7,
+        "capacity": 250,
+        "numberOfItems": 6,
+        "weights": [15, 25, 38, 47, 59, 68],
+        "values": [95, 88, 76, 69, 57, 46]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 8,
+        "capacity": 300,
+        "numberOfItems": 8,
+        "weights": [18, 31, 45, 57, 67, 79, 89, 101],
+        "values": [105, 93, 86, 75, 68, 55, 48, 39]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 9,
+        "capacity": 350,
+        "numberOfItems": 12,
+        "weights": [16, 29, 43, 55, 66, 78, 91, 103, 115, 128, 140, 153],
+        "values": [140, 130, 118, 107, 96, 85, 74, 63, 52, 41, 30, 20]
+      },
+      {
+        "note": "Magassabb erteku targyaknak alacsonyabb a sulya, kevesebb ertekueknek nagyobb, kapacitas +/- 50",
+        "testNumber": 10,
+        "capacity": 400,
+        "numberOfItems": 15,
+        "weights": [19, 33, 46, 60, 73, 87, 100, 114, 127, 141, 154, 168, 181, 195, 208],
+        "values": [210, 198, 186, 174, 162, 150, 138, 126, 114, 102, 90, 78, 66, 54, 42]
+      }      
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "testNumber": 1,
+        "note": "magassag <= szelesseg",
+        "capacity": [10, 10],
+        "rectangles": [[3, 2, 8], [3, 2, 7], [5, 5, 5], [2, 2, 1], [1, 1, 1]]
+    },
+    {
+        "testNumber": 2,
+        "note": "magassag < szelesseg",
+        "capacity": [15, 10],
+        "rectangles": [[5, 4, 8], [6, 4, 10], [3, 2, 5], [5, 4, 9], [6, 5, 11]]
+    },
+    {
+        "testNumber": 3,
+        "note": "nagy tarolo kis targyak",
+        "capacity": [100, 100],
+        "rectangles": [[2, 3, 8], [3, 2, 7], [5, 5, 5], [2, 2, 1], [1, 1, 1]]
+    },
+    {
+        "testNumber": 4,
+        "note": "kontener 2x szeles, targyak szelessege > magassaga",
+        "capacity": [100, 50],
+        "rectangles": [[30, 20, 25], [50, 40, 50], [40, 30, 45], [35, 25, 40], [20, 10, 10]]
+    },
+    {
+        "testNumber": 5,
+        "note": "szelesseg = magassag",
+        "capacity": [50, 50],
+        "rectangles": [[10, 10, 15], [20, 20, 30], [10, 10, 15], [5, 5, 5], [1, 1, 1]]
+    },
+    {
+        "testNumber": 6,
+        "note": "magassag > szelesseg",
+        "capacity": [50, 50],
+        "rectangles": [[10, 20, 15], [20, 30, 30], [10, 25, 15], [5, 10, 5], [1, 5, 1]]
+    },
+    {
+        "testNumber": 7,
+        "note": "kontener 2x magas, targyak szelessege < magassaga",
+        "capacity": [50, 100],
+        "rectangles": [[10, 20, 500], [10, 30, 450], [10, 40, 400], [20, 40, 50], [15, 45, 60]]
+    }, 
+    {
+        "testNumber": 8,
+        "note": "szelesseg > magassag",
+        "capacity": [50, 30],
+        "rectangles": [[20, 10, 25], [25, 15, 50], [15, 5, 30], [30, 10, 45], [10, 5, 10]]
+    },
+    {
+        "testNumber": 9,
+        "note": "szelesseg < magassag",
+        "capacity": [30, 50],
+        "rectangles": [[10, 20, 30], [5, 25, 60], [15, 30, 45], [10, 35, 40], [5, 10, 10]]
+    },
+    {
+        "testNumber": 10,
+        "note": "nagyobb ertekek",
+        "capacity": [50, 50],
+        "rectangles": [[10, 10, 500], [20, 25, 1000], [15, 20, 750], [5, 5, 250], [30, 35, 1050]]
+    },
+    {
+        "testNumber": 11,
+        "note": "nagyobb kontener nagyobb ertekekkel",
+        "capacity": [200, 200],
+        "rectangles": [[50, 100, 1000], [80, 120, 2500], [100, 50, 1500], [60, 70, 2000], [90, 100, 1800]]
+    },
+    {
+        "testNumber": 12,
+        "note": "nagy kontener targyak szelessege = magassaga nagy ertekekkel",
+        "capacity": [100, 100],
+        "rectangles": [[20, 20, 400], [30, 30, 900], [40, 40, 1600], [50, 50, 2500], [10, 10, 100]]
+    }
+]

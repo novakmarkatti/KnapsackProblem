@@ -1,0 +1,27 @@
+[
+    {
+      "note": "amikor a megoldás tényleg a legjobb érték/súly alapján dől el",
+      "testNumber": 1,
+      "capacity": 10,
+      "numberOfItems": 4,
+      "weights": [5, 10, 2, 3],
+      "values": [10, 15, 10, 18]
+    },
+    {
+      "note": "amikor a megoldás tényleg a legjobb érték/súly alapján dől el",
+      "testNumber": 2,
+      "capacity": 7,
+      "numberOfItems": 3,
+      "weights": [1, 2, 4],
+      "values": [2, 6, 12]
+    },
+    {
+      "note": "amikor a megoldás tényleg a legjobb érték/súly alapján dől el",
+      "testNumber": 3,
+      "capacity": 9,
+      "numberOfItems": 5,
+      "weights": [2, 3, 4, 2, 3],
+      "values": [4, 9, 8, 10, 15]
+    }
+  ]
+  

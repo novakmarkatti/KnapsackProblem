@@ -1,0 +1,51 @@
+[
+    {
+        "note": "Ertekek kozott nagy kulonbseg van",
+        "testNumber": 1,
+        "capacity": 250,
+        "numberOfItems": 5,
+        "weights": [22, 34, 53, 88, 71],
+        "values": [200, 2400, 4400, 6400, 8400]
+      },
+      {
+        "note": "Ertekek kozott nagy kulonbseg van",
+        "testNumber": 2,
+        "capacity": 350,
+        "numberOfItems": 7,
+        "weights": [28, 63, 46, 112, 79, 95, 129],
+        "values": [500, 2700, 4900, 7100, 9300, 11500, 13700]
+      },
+      {
+        "note": "Ertekek kozott nagy kulonbseg van",
+        "testNumber": 3,
+        "capacity": 480,
+        "numberOfItems": 10,
+        "weights": [13, 41, 27, 87, 56, 134, 72, 103, 118, 149],
+        "values": [300, 2500, 4700, 6900, 9100, 11300, 13500, 15700, 17900, 20100]
+      },
+      {
+        "note": "Ertekek kozott nagy kulonbseg van",
+        "testNumber": 4,
+        "capacity": 540,
+        "numberOfItems": 15,
+        "weights": [18, 48, 33, 125, 64, 202, 79, 140, 94, 217, 110, 186, 125, 232, 140],
+        "values": [400, 2800, 5200, 7600, 10000, 12400, 14800, 17200, 19600, 22000, 24400, 26800, 29200, 31600, 34000]
+      },
+      {
+        "note": "Ertekek kozott nagy kulonbseg van",
+        "testNumber": 5,
+        "capacity": 250,
+        "numberOfItems": 5,
+        "weights": [22, 34, 53, 88, 71],
+        "values": [237, 2243, 4213, 6237, 8279]
+      },
+      {
+        "note": "Ertekek kozott nagy kulonbseg van",
+        "testNumber": 6,
+        "capacity": 350,
+        "numberOfItems": 7,
+        "weights": [28, 63, 46, 112, 79, 95, 129],
+        "values": [521, 2571, 4681, 6739, 8799, 10887, 13013]
+      }
+      
+]

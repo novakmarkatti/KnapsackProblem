@@ -1,0 +1,50 @@
+[
+    {
+        "testNumber"   : 1,
+        "note"         : "ures eset", 
+        "capacity"     : [0, 0],
+        "rectangles"   : []
+    },
+    {
+        "testNumber"   : 2,
+        "note"         : "1 targy belefer", 
+        "capacity"     : [5, 5],
+        "rectangles"   : [[4,4,4]]
+    },
+    {
+        "testNumber"   : 3,
+        "note"         : "1 targy nem fer bele", 
+        "capacity"     : [5, 5],
+        "rectangles"   : [[6,6,6]]
+    },
+    {
+        "testNumber"   : 4,
+        "note"         : "tobb ugyan olyan meretu targy ami tokeletesen belefernek", 
+        "capacity"     : [10, 10],
+        "rectangles"   :  [[5, 5, 5], [5, 5, 5], [5, 5, 5], [5, 5, 5]]
+    },
+    {
+        "testNumber"   : 5,
+        "note"         : "tobb targy kulonbozo meret", 
+        "capacity"     : [10, 10],
+        "rectangles"   : [[5, 5, 5], [2,2,2], [3,3,3], [6,6,6]]
+    },
+    {
+        "testNumber"   : 6,
+        "note"         : "semmi se fer bele", 
+        "capacity"     : [5, 5],
+        "rectangles"   : [[6,6,6], [7,7,7], [8,8,8]]
+    },
+    {
+        "testNumber"   : 7,
+        "note"         : "egesz szamok a meretek", 
+        "capacity"     : [5.5, 5.5],
+        "rectangles"   : [[2.75, 2.75, 2.75], [2.75, 2.75, 2.75]]
+    },
+    {
+        "testNumber"   : 8,
+        "note"         : "ha a forgatas megengedett akkor belefer", 
+        "capacity"     : [8, 5],
+        "rectangles"   : [[5,4,3], [5,4,3]]
+    }
+]

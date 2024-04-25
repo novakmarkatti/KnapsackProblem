@@ -1,0 +1,9 @@
+[
+    {
+        "testNumber"   : 1,
+        "note"         : "diplomamunkaban bemutatott pelda", 
+        "capacity"     : [8, 8],
+        "rectangles"   : [[3,2,9], [5,3,21], [2,2,5], [4,3,19], [3,3,12], 
+                          [1,1,2], [2,3,17], [4,1,14], [4,5,3], [4,2,10], [4,4,8]]
+    }
+]

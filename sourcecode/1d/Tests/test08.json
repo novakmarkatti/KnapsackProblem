@@ -1,0 +1,84 @@
+[
+    {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 1,
+        "capacity": 25000,
+        "numberOfItems": 5,
+        "weights": [2375, 4239, 6372, 8438, 10517],
+        "values": [24, 43, 72, 93, 117]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 2,
+        "capacity": 35000,
+        "numberOfItems": 7,
+        "weights": [2129, 4183, 6312, 8321, 10293, 12375, 14527],
+        "values": [15, 32, 57, 77, 97, 114, 135]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 3,
+        "capacity": 50000,
+        "numberOfItems": 10,
+        "weights": [1237, 3289, 5378, 7419, 9421, 11433, 13489, 15561, 17623, 19687],
+        "values": [18, 39, 56, 78, 96, 115, 134, 153, 171, 190]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 4,
+        "capacity": 75000,
+        "numberOfItems": 15,
+        "weights": [1875, 3923, 5893, 7911, 9913, 11927, 13933, 15979, 18043, 20109, 22173, 24235, 26297, 28361, 30425],
+        "values": [14, 32, 50, 70, 88, 106, 124, 142, 160, 178, 196, 214, 232, 250, 268]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 5,
+        "capacity": 100000,
+        "numberOfItems": 20,
+        "weights": [1093, 3121, 5137, 7131, 9137, 11145, 13157, 15173, 17185, 19197, 21209, 23221, 25233, 27245, 29257, 31269, 33281, 35293, 37305, 39317],
+        "values": [11, 28, 45, 62, 79, 96, 113, 130, 147, 164, 181, 198, 215, 232, 249, 266, 283, 300, 317, 334]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 6,
+        "capacity": 25000,
+        "numberOfItems": 5,
+        "weights": [2375, 4439, 8432, 6378, 10517],
+        "values": [117, 24, 43, 93, 72]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 7,
+        "capacity": 35000,
+        "numberOfItems": 7,
+        "weights": [2129, 6312, 4183, 10293, 8321, 14527, 12375],
+        "values": [97, 15, 135, 57, 114, 32, 77]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 8,
+        "capacity": 50000,
+        "numberOfItems": 10,
+        "weights": [1237, 5378, 3289, 9421, 7419, 13489, 11433, 15561, 17623, 19687],
+        "values": [190, 18, 134, 79, 115, 56, 153, 39, 171, 78]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 9,
+        "capacity": 75000,
+        "numberOfItems": 15,
+        "weights": [1875, 3923, 5893, 7911, 9913, 11927, 13933, 15979, 18043, 20109, 22173, 24235, 26297, 28361, 30425],
+        "values": [268, 14, 124, 232, 88, 250, 106, 142, 196, 178, 160, 214, 32, 50, 70]
+      },
+      {
+        "note": "nagy kapacitas nagy sulyok kis ertekek",
+        "testNumber": 10,
+        "capacity": 100000,
+        "numberOfItems": 20,
+        "weights": [1093, 3121, 5137, 7131, 9137, 11145, 13157, 15173, 17185, 19197, 21209, 23221, 25233, 27245, 29257, 31269, 33281, 35293, 37305, 39317],
+        "values": [334, 11, 283, 62, 249, 79, 113, 147, 266, 164, 215, 198, 130, 232, 181, 96, 300, 317, 28, 45]
+      }
+      
+      
+]

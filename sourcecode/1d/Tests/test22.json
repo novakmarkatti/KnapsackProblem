@@ -1,0 +1,26 @@
+[
+    {
+        "note": "kapacitas novelese +50 ertekek 1000es nagysagrendben kulonboznek sulyok kicsik",
+        "testNumber": 1,
+        "capacity": 200,
+        "numberOfItems": 12,
+        "weights": [16, 43, 20, 36, 12, 24, 27, 30, 38, 7, 41, 8],
+        "values": [1224, 1804, 1618, 2046, 2054, 2092, 1488, 2406, 941, 1807, 1084, 1874]
+    }, 
+    {
+        "note": "capacity: 250 | numberOfItems: 12 | weights: 1-50 (sum weights: 298)| values: 500-5000 (sum values: 19013)",
+        "testNumber": 2,
+        "capacity": 250,
+        "numberOfItems": 12,
+        "weights": [16, 43, 20, 36, 12, 24, 27, 30, 38, 7, 41, 8],
+        "values": [1224, 1804, 1618, 2046, 2054, 2092, 1488, 2406, 941, 1807, 1084, 1874]
+    },
+    {
+        "note": "capacity: 350 | numberOfItems: 12 | weights: 1-50 (sum weights: 346)| values: 500-5000 (sum values: 26534)",
+        "testNumber": 3,
+        "capacity": 300,
+        "numberOfItems": 14,
+        "weights": [16, 43, 20, 36, 12, 24, 27, 30, 38, 7, 41, 8, 11, 33],
+        "values": [1224, 1804, 1618, 2046, 2054, 2092, 1488, 2406, 941, 1807, 1084, 1874, 1234, 4862]
+    }
+]
